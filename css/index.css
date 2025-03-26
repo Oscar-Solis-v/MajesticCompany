@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbarimg{
+    width: 10%;
+    height: 10%;
+}
+.custoncon{
+    max-width: 50% !important;
+    margin: auto;
+}
